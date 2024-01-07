@@ -41,7 +41,6 @@
 <!-- https://badges.pages.dev/ -->
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/shahzodshafizod)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/shahzodshafizod)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com/shahzodshafizod)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/shahzodshafizod)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/shahzodshafizod)
 
