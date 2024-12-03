@@ -35,14 +35,14 @@
 
 ---
 
-## Connect with me
-<div align="center">
+<!-- ## Connect with me -->
+<!-- <div align="center"> -->
 
 <!-- https://badges.pages.dev/ -->
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/shahzodshafizod)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:shahzodshafizod@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/shahzodshafizod)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/shahzodshafizod)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/shahzodshafizod)
+<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/shahzodshafizod) -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:shahzodshafizod@gmail.com) -->
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/shahzodshafizod) -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/shahzodshafizod) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/shahzodshafizod) -->
 
-</div>
+<!-- </div> -->
