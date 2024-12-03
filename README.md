@@ -7,6 +7,7 @@
 <div align="center">
 
 [![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![DynamoDB](https://skillicons.dev/icons?i=dynamodb)](https://aws.amazon.com/dynamodb/)
@@ -20,16 +21,16 @@
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![RegExr](https://skillicons.dev/icons?i=regex)](https://regexr.com/)
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GithubActions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 [![Sentry](https://skillicons.dev/icons?i=sentry)](https://sentry.io/)
 [![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![VIM](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
 
 </div>
 
