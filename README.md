@@ -1,7 +1,7 @@
-# <div align="center">Hi 👋, I'm Shahzod</div>
-### <div align="center">A passionate backend developer 👨‍💻 from Tajikistan 🇹🇯, Dushanbe.</div>
+<!-- # <div align="center">Hi 👋, I'm Shahzod</div> -->
+<!-- ### <div align="center">A passionate backend developer 👨‍💻 from Tajikistan 🇹🇯, Dushanbe.</div> -->
 
----
+<!-- --- -->
 
 ## My Skill Set
 <div align="center">
@@ -34,7 +34,7 @@
 
 </div>
 
----
+<!-- --- -->
 
 <!-- ## Connect with me -->
 <!-- <div align="center"> -->
