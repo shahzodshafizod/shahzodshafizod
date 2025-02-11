@@ -18,7 +18,7 @@
 
 🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Keycloak, Redis, PostgreSQL, MongoDB, RabbitMQ, NATS JetStream, MinIO, OpenTelemetry, Jaeger, gRPC, Draw.io  
 
-### Senior Software Engineer @ [ALIF BANK](https://alif.tj/en)  
+### Senior Software Engineer @ [Alif Bank](https://alif.tj/en)  
 **July 2022 – September 2022**  
 
 - **Led** a cross-functional team of 5+ engineers, guiding the design and delivery of scalable systems.  
@@ -28,18 +28,18 @@
 
 🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Ingress, Git, GitHub, GitHub Actions, OpenTelemetry, Jaeger, RabbitMQ, NATS JetStream, MinIO, Draw.io  
 
-### Middle Software Engineer @ [ALIF BANK](https://alif.tj/en)  
+### Middle Software Engineer @ [Alif Bank](https://alif.tj/en)  
 **March 2020 – July 2022**  
 
 - Implemented and managed **integrations** for diverse **third-party billing platforms**, expanding the company's **payment ecosystem**.  
 - Developed **large-scale projects**, including **a Single QR solution** (EMV QR) for the banking sector in collaboration with the National Bank of Tajikistan and **cross-border transfer** services.  
-- Led **system refactoring** efforts, improving scalability and maintainability.  
+- **Led system refactoring** efforts, improving scalability and maintainability.  
 - Architected and developed **highly scalable backend systems** using **Go**, handling **over 1 million daily active users**.  
 - Designed and maintained **database architectures** using **PostgreSQL** and **ClickHouse**, enhancing system reliability and performance through **efficient indexing**, **query optimization**, and **caching strategies**.  
 
 🏗 **Tech Stack**: Go, PostgreSQL, ClickHouse, Redis, Docker, OpenTracing, Jaeger, RabbitMQ, gRPC, Git, GitHub, GitHub Actions, MinIO  
 
-### Junior Software Engineer @ [ALIF BANK](https://alif.tj/en)  
+### Junior Software Engineer @ [Alif Bank](https://alif.tj/en)  
 **March 2018 – March 2020**  
 
 - Assisted in designing and implementing **RESTful APIs** and basic **microservices**.  
@@ -52,8 +52,8 @@
 
 ## 🚀 RELEVANT PROJECTS
 
-- [GoCloud](https://github.com/shahzodshafizod/gocloud) - A cloud-native Go project utilizing AWS, GCP, and Azure for distributed computing.
-- [LeetCode](https://github.com/shahzodshafizod/leetcode) - Mastering Data Structures and Algorithms through LeetCode
+- [GoCloud](https://github.com/shahzodshafizod/gocloud) - A **cloud-native** **Go** project utilizing **AWS**, **GCP**, and **Azure** for distributed computing.
+- [LeetCode](https://github.com/shahzodshafizod/leetcode) - Mastering **Data Structures** and **Algorithms** through LeetCode
 
 ---
 
