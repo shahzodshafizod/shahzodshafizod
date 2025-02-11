@@ -16,7 +16,7 @@
 - Architected CI/CD pipelines using GitHub Actions for automated builds, testing, and deployments, leveraging Docker containerization and Kubernetes orchestration.  
 - Designed and implemented an event-driven architecture using RabbitMQ and NATS JetStream.  
 
-🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Keycloak, Redis, PostgreSQL, MongoDB, RabbitMQ, NATS JetStream, MinIO, OpenTelemetry, gRPC, Draw.io  
+🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Keycloak, Redis, PostgreSQL, MongoDB, RabbitMQ, NATS JetStream, MinIO, OpenTelemetry, Jaeger, gRPC, Draw.io  
 
 ---
 
@@ -29,7 +29,7 @@
 - Designed clean, maintainable codebases following Go conventions and best practices.  
 
 
-🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Draw.io  
+🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Nginx, Ingress, Git, GitHub, GitHub Actions, OpenTelemetry, Jaeger, RabbitMQ, NATS JetStream, MinIO, Draw.io  
 
 ---
 
@@ -37,12 +37,12 @@
 **Mar 2020 – Jul 2022**  
 
 - Implemented and managed integrations for diverse third-party billing platforms, expanding the company's payment ecosystem.  
-- Developed large-scale projects, including a Single QR solution for the banking sector in collaboration with the National Bank of Tajikistan and cross-border transfer services.  
+- Developed large-scale projects, including a Single QR solution (EMV QR) for the banking sector in collaboration with the National Bank of Tajikistan and cross-border transfer services.  
 - Led system refactoring efforts, improving scalability and maintainability.  
 - Architected and developed highly scalable backend systems using Go, handling over 1 million daily active users.  
 - Designed and maintained database architectures using PostgreSQL and ClickHouse, enhancing system reliability and performance through efficient indexing, query optimization, and caching strategies.  
 
-🏗 **Tech Stack**: Go, PostgreSQL, ClickHouse, Redis, Docker, gRPC  
+🏗 **Tech Stack**: Go, PostgreSQL, ClickHouse, Redis, Docker, OpenTracing, Jaeger, RabbitMQ, gRPC, Git, GitHub, GitHub Actions, MinIO  
 
 ---
 
@@ -55,17 +55,23 @@
 
 ---
 
-🏗 **Tech Stack**: Go, PostgreSQL, Redis, HTTP  
+🏗 **Tech Stack**: Go, PostgreSQL, Redis, HTTP, Git, GitHub, Linux  
+
+---
+
+## 🚀 RELEVANT PROJECTS
+
+- [GoCloud](https://github.com/shahzodshafizod/gocloud) - A cloud-native Go project utilizing AWS, GCP, and Azure for distributed computing.
+- [LeetCode](https://github.com/shahzodshafizod/leetcode) - Mastering Data Structures and Algorithms through LeetCode
 
 ---
 
 ## 🎓 EDUCATION
 
 ### Tajik National University  
-**Master’s Degree in Informatics (Software Engineering)** – 2014  
 
-### Tajik National University  
-**Master’s Degree in Finance and Credit (Economics)** – 2017  
+- **Master’s Degree in Software Engineering** – 2014  
+- **Master’s Degree in Finance and Credit** – 2017  
 
 ---
 
@@ -82,7 +88,7 @@
 
 - **Programming Languages**: Go, Python  
 - **Cloud Platforms**: AWS, Firebase  
-- **DevOps & Infrastructure**: Docker, Kubernetes, Nginx, Ingress, Git, GitHub, GitHub Actions, Linux, Bash  
+- **DevOps & Infrastructure**: Docker, Kubernetes, Nginx, Ingress, Git, GitHub, GitHub Actions, Linux  
 - **Monitoring & Observability**: OpenTelemetry, Jaeger, AWS X-Ray  
 - **Databases**: PostgreSQL, Amazon RDS, MongoDB, DynamoDB, Redis, Amazon ElastiCache  
 - **Authentication & Identity Management**: Amazon Cognito, Firebase Authentication, Keycloak  
