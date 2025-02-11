@@ -1,49 +1,100 @@
-<!-- # <div align="center">Hi 👋, I'm Shahzod</div> -->
-<!-- ### <div align="center">A passionate backend developer 👨‍💻 from Tajikistan 🇹🇯, Dushanbe.</div> -->
+# SHAHZOD GHOIBNAZAROV
 
-<!-- --- -->
+## 🔍 ABOUT ME
 
-## My Skill Set
-<div align="center">
+**Senior Software Engineer** with 5+ years of experience in backend development, system design, and microservices architecture. Proficient in **cloud technologies**, I specialize in designing and implementing scalable, high-performance systems that support over **1 million daily active users**. Skilled in integrating third-party systems, implementing event-driven architectures, and enhancing system efficiency using **Go, PostgreSQL, Docker, Kubernetes, and AWS**. A strong leader and mentor, I have experience leading technical projects, conducting detailed code reviews, and mentoring team engineers. I have **strong analytical thinking skills, adhere to the principles of lifelong learning, adapt quickly to changing project requirements, and communicate effectively with team members**.
 
-[![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![DynamoDB](https://skillicons.dev/icons?i=dynamodb)](https://aws.amazon.com/dynamodb/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
-[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![RegExr](https://skillicons.dev/icons?i=regex)](https://regexr.com/)
-[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GithubActions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
-[![Sentry](https://skillicons.dev/icons?i=sentry)](https://sentry.io/)
-[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![VIM](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
+---
 
-</div>
+## 💼 WORK EXPERIENCE
 
-<!-- --- -->
+### Freelance Software Engineer  
+**Jun 2023 – Sep 2024**  
 
-<!-- ## Connect with me -->
-<!-- <div align="center"> -->
+- Developed and deployed four web applications using Go and AWS, including a design gallery, an IT academy landing page, and a single-vendor marketplace.  
+- Designed and implemented scalable, secure, and high-performance microservices utilizing authentication, caching, databases, message brokers, storage, and tracing.  
+- Architected CI/CD pipelines using GitHub Actions for automated builds, testing, and deployments, leveraging Docker containerization and Kubernetes orchestration.  
+- Designed and implemented an event-driven architecture using RabbitMQ and NATS JetStream.  
 
-<!-- https://badges.pages.dev/ -->
-<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/shahzodshafizod) -->
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:shahzodshafizod@gmail.com) -->
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/shahzodshafizod) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/shahzodshafizod) -->
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/shahzodshafizod) -->
+🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Keycloak, Redis, PostgreSQL, MongoDB, RabbitMQ, NATS JetStream, MinIO, OpenTelemetry, gRPC, Draw.io  
 
-<!-- </div> -->
+---
+
+### Senior Software Engineer @ [ALIF BANK](https://alif.tj/en)  
+**Jul 2022 – Sep 2022**  
+
+- Led a cross-functional team of 5+ engineers, guiding the design and delivery of scalable systems.  
+- Conducted code reviews and live coding sessions, mentoring team engineers in Go best practices and standards.  
+- Validated and approved technical tasks and implementation plans, ensuring alignment with architectural standards and business objectives.  
+- Designed clean, maintainable codebases following Go conventions and best practices.  
+
+
+🏗 **Tech Stack**: Go, AWS, Docker, Kubernetes, Draw.io  
+
+---
+
+### Middle Software Engineer @ [ALIF BANK](https://alif.tj/en)  
+**Mar 2020 – Jul 2022**  
+
+- Implemented and managed integrations for diverse third-party billing platforms, expanding the company's payment ecosystem.  
+- Developed large-scale projects, including a Single QR solution for the banking sector in collaboration with the National Bank of Tajikistan and cross-border transfer services.  
+- Led system refactoring efforts, improving scalability and maintainability.  
+- Architected and developed highly scalable backend systems using Go, handling over 1 million daily active users.  
+- Designed and maintained database architectures using PostgreSQL and ClickHouse, enhancing system reliability and performance through efficient indexing, query optimization, and caching strategies.  
+
+🏗 **Tech Stack**: Go, PostgreSQL, ClickHouse, Redis, Docker, gRPC  
+
+---
+
+### Junior Software Engineer @ [ALIF BANK](https://alif.tj/en)  
+**Mar 2018 – Mar 2020**  
+
+- Assisted in designing and implementing RESTful APIs and basic microservices.  
+- Identified and debugged application issues in Go and PostgreSQL, leveraging Sentry for error management and Jaeger for distributed tracing.  
+- Contributed to the development of unit and integration tests using Go's testing package, improving code stability and correctness.  
+
+---
+
+🏗 **Tech Stack**: Go, PostgreSQL, Redis, HTTP  
+
+---
+
+## 🎓 EDUCATION
+
+### Tajik National University  
+**Master’s Degree in Informatics (Software Engineering)** – 2014  
+
+### Tajik National University  
+**Master’s Degree in Finance and Credit (Economics)** – 2017  
+
+---
+
+## 🏅 CERTIFICATIONS
+
+### AWS Certified Developer – Associate  
+**Certification ID**: [4b3f48b4e341414ca1d79037ccd750fb](https://aws.amazon.com/verification)  
+**Issued**: December 29, 2024  
+**Expires on**: December 29, 2027  
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+- **Programming Languages**: Go, Python  
+- **Cloud Platforms**: AWS, Firebase  
+- **DevOps & Infrastructure**: Docker, Kubernetes, Nginx, Ingress, Git, GitHub, GitHub Actions, Linux, Bash  
+- **Monitoring & Observability**: OpenTelemetry, Jaeger, AWS X-Ray  
+- **Databases**: PostgreSQL, Amazon RDS, MongoDB, DynamoDB, Redis, Amazon ElastiCache  
+- **Authentication & Identity Management**: Amazon Cognito, Firebase Authentication, Keycloak  
+- **Notifications**: Amazon SES, AWS SNS, MailHog, FCM (Firebase Cloud Messaging), OneSignal  
+- **Messaging & Communication**: RabbitMQ, NATS JetStream, Amazon SQS, gRPC  
+- **Storage**: Amazon S3, MinIO  
+
+---
+
+## 🗣️ LANGUAGES
+
+- **English**: B1+  
+- **Russian**: B1+  
+- **Tajik**: Native  
+- **Persian**: Native  
