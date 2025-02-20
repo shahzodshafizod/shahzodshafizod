@@ -10,7 +10,7 @@ I thrive on solving **scalability challenges**, optimizing **high-load asynchron
 
 ## 💼 **PROFESSIONAL EXPERIENCE**  
 
-### **Backend Software Engineer (Freelance | Contract)**  
+### **Golang Software Engineer (Freelance | Contract)**  
 📅 **December 2022 – Present**  
 
 Developed and deployed **web applications** using **Go, AWS, and Kubernetes**, including a design gallery, IT academy landing page, and a single-vendor marketplace.  
@@ -27,9 +27,11 @@ Developed and deployed **web applications** using **Go, AWS, and Kubernetes**, i
 
 ---
 
-### **Senior Golang Developer @ [Alif Bank](https://alif.tj/en)**  
+### **Senior Software Engineer (Golang) @ [Alif Bank](https://alif.tj/en)**  
 📅 **July 2022 – September 2022**  
 
+- **Optimized system performance** by **<span title="We identified performance bottlenecks in our system using pprof and OpenTelemetry tracing. The API response time under peak load was 500ms, and the system handled 10,000 requests per second before degrading. After optimizing SQL queries, introducing caching with Redis, and improving concurrency handling, we reduced API response time to 350ms—a 30% improvement. We validated this with k6 load tests before and after optimizations.">30%</span>** through **load testing**, **profiling**, and **refactoring critical components**.  
+- **Led** the **architecture and design** of a **microservices-based system** (API Gateway).  
 - **Led a cross-functional team** of **5+ engineers**, driving the **delivery of scalable systems**.  
 - **Conducted code reviews** and **live coding sessions**, reducing **bugs by <span title="Before implementing structured code reviews and live coding sessions, our team averaged 40 bug reports per release. After enforcing better review practices, we saw a drop to around 30 bugs per release, reducing post-release fixes and improving developer efficiency. This was a clear 25% reduction in reported issues. Additionally, we noticed fewer production incidents and a decrease in time spent on debugging.">25%</span>**.  
 - **Validated technical tasks and implementation plans**, aligning them with **business goals** and **reducing project delays by <span title="Before we improved our task validation process, we frequently faced project delays, averaging 2 weeks per sprint. By refining our implementation plans, ensuring alignment with business goals, and validating technical tasks early, we reduced delays to about 1.7 weeks per sprint—a 15% improvement. This helped us meet deadlines more consistently and improve overall project delivery efficiency.">15%</span>**.  
@@ -40,7 +42,7 @@ Developed and deployed **web applications** using **Go, AWS, and Kubernetes**, i
 
 ---
 
-### **Middle Golang Developer @ [Alif Bank](https://alif.tj/en)**  
+### **Lead Software Engineer (Golang) @ [Alif Bank](https://alif.tj/en)**  
 📅 **March 2020 – July 2022**  
 
 Worked on **AlifPay’s core banking payment system**, improving **reliability and scalability** for **1M+ daily users**.  
@@ -48,12 +50,12 @@ Worked on **AlifPay’s core banking payment system**, improving **reliability a
 🔹 **Key Contributions:**  
 
 - **Refactored a monolith into microservices**, reducing **system failures by <span title="Before breaking our monolithic system into microservices, we experienced around 10 major system failures per month, often requiring full-system restarts. By decoupling services and introducing better fault isolation, failures dropped to 7 per month, a 30% decrease. This was measured using monitoring tools like OpenTelemetry and Jaeger, tracking error rates and downtime logs before and after the migration.">30%</span>**.  
-- Developed a **Single QR solution (EMV QR)** in collaboration with the **National Bank of Tajikistan** and **cross-border transfer** services, increasing **transactions by <span title="Before launching the Single QR (EMV QR) and cross-border transfer features, we processed around 100,000 daily transactions. After rollout, this increased to 150,000 daily transactions, a 50% boost. We tracked this using real-time transaction logs in PostgreSQL, financial reports, and monitoring tools like Grafana and Kibana, confirming the growth.">50%</span>**.  
+- **Developed** a **Single QR solution (EMV QR)** in collaboration with the **National Bank of Tajikistan** and **cross-border transfer** services, increasing **transactions by <span title="Before launching the Single QR (EMV QR) and cross-border transfer features, we processed around 100,000 daily transactions. After rollout, this increased to 150,000 daily transactions, a 50% boost. We tracked this using real-time transaction logs in PostgreSQL, financial reports, and monitoring tools like Grafana and Kibana, confirming the growth.">50%</span>**.  
 - **Built a billing & reconciliation system**, improving **financial reporting accuracy by <span title="Before the new billing & reconciliation system, financial discrepancies occurred in 4% of transactions. After implementation, errors dropped to 2.5%, a ~25% improvement. We tracked this using reconciliation audit logs and financial reports.">~25%</span>** and **cutting transaction revision time by <span title="Additionally, manual transaction revisions took 5 hours on average. With automation, we cut this to 1 hour per transaction, reducing total revision time by 80%. This was verified through historical logs and audit reports.">80%</span>**.  
 - **Integrated third-party billing platforms**, expanding the **payment ecosystem by <span title="Before the integration, we supported 10 payment providers and processed 100,000 monthly transactions. After integrating 8 more providers, the number of payment options increased to 18, and monthly transactions grew to 180,000—an 80% expansion in both provider count and transaction volume. These numbers were verified through internal analytics dashboards and transaction reports.">80%</span>**.  
 - **Optimized database queries and caching**, reducing **data retrieval time by <span title="Before optimization, the average query execution time was around 500 ms, and the data retrieval time for certain queries was causing latency issues. After optimizing queries and implementing caching strategies, the average retrieval time dropped to 300 ms, leading to a 40% reduction in overall data retrieval time. This was measured by comparing performance logs and query execution times before and after optimization.">40%</span>**.  
 - **Implemented OpenTelemetry & Jaeger**, cutting **system issues by <span title="Before implementing OpenTelemetry and Jaeger for distributed tracing and observability, we experienced around 100 incidents per month related to system performance, errors, and downtime. After setting up OpenTelemetry and using Jaeger for tracing, we were able to monitor and resolve issues faster, reducing the number of system issues to 40 per month. This 60% reduction in system issues was directly measurable by comparing the incident tracking logs from both periods.">60%</span>**.  
-- Designed **microservices with Clean Architecture** and **12-factor app principles**, improving **maintainability by <span title="By implementing Clean Architecture and the 12-factor app principles, I introduced a more modular, scalable structure that streamlined our development process. Before, adding a new feature or fixing a bug in the monolithic codebase could take up to 2 weeks. After refactoring, those same tasks now take roughly 1.33 weeks. Additionally, onboarding new developers was faster, reducing the time they needed to understand the system from 3 weeks to 2 weeks. This resulted in a 1.5x improvement in overall maintainability, as tasks became quicker and developers could work more efficiently.">1.5x</span>**.  
+- **Designed** **microservices with Clean Architecture** and **12-factor app principles**, improving **maintainability by <span title="By implementing Clean Architecture and the 12-factor app principles, I introduced a more modular, scalable structure that streamlined our development process. Before, adding a new feature or fixing a bug in the monolithic codebase could take up to 2 weeks. After refactoring, those same tasks now take roughly 1.33 weeks. Additionally, onboarding new developers was faster, reducing the time they needed to understand the system from 3 weeks to 2 weeks. This resulted in a 1.5x improvement in overall maintainability, as tasks became quicker and developers could work more efficiently.">1.5x</span>**.  
 - **Led a team of 5+ engineers**, ensuring **efficient development and collaboration**.  
 - **Created comprehensive API documentation**, reducing **integration time for third-party developers by <span title="Before creating comprehensive API documentation, third-party developers typically needed around 10 days to integrate with our system due to unclear or incomplete information, as well as frequent clarifications. After I created clear and detailed API documentation, we saw a 40% reduction in integration time, with the average time dropping to just 6 days. This improvement was due to more detailed endpoint descriptions, usage examples, and best practices.">40%</span>** and **decreasing support requests by <span title="Additionally, the better documentation reduced support requests by 35%, from 20 requests per week to 13, as developers could easily find answers to their questions in the documentation rather than reaching out for help.">35%</span>**.  
 
@@ -61,7 +63,7 @@ Worked on **AlifPay’s core banking payment system**, improving **reliability a
 
 ---
 
-### **Junior Golang Developer @ [Alif Bank](https://alif.tj/en)**  
+### **Software Engineer (Golang) @ [Alif Bank](https://alif.tj/en)**  
 📅 **March 2018 – March 2020**  
 
 - Developed **RESTful APIs & microservices**, reducing **development time by <span title="Previously, our team followed a more monolithic architecture, which led to longer development cycles for each feature and API. Each new feature would take about 10 days to develop. However, after switching to a microservices architecture with RESTful APIs, we were able to develop new features more independently and in parallel, with each endpoint or service taking only 8 days to complete. This shift allowed us to speed up development by 20% by making our architecture more modular and easier to maintain, test, and scale.">20%</span>**.  
