@@ -119,3 +119,4 @@ Demonstrated expertise in **designing and maintaining applications** on **AWS**.
 - **English**: **Fluent**  
 - **Russian**: **Proficient**  
 - **Tajik**: **Native**  
+- **Persian**: **Native**  
