@@ -10,8 +10,23 @@ I thrive on solving **scalability challenges**, optimizing **high-load asynchron
 
 ## 💼 **PROFESSIONAL EXPERIENCE**  
 
+### **Software Engineer (Golang) @ [Planet 9](https://planet9.ae/)**  
+📅 January 2025 – Present  
+
+- Built the core **microservices backend** **from scratch** and set up the foundation for the startup's product **roadmap**.
+- Integrated **UAE Pass** services, including **authentication, authorization**, and the **Digital Vault** for uploading documents.
+- Set up **event-driven communication** using message queues to keep services decoupled and responsive.
+- Designed and optimized **PostgreSQL database schemas** with proper **indexing strategies** to support high-throughput data operations.
+- Created **CI/CD pipelines** and **Docker-based** workflows to simplify development and deployment.
+- Added robust **logging and monitoring** to improve visibility and speed up debugging.
+- Actively contributed to decisions on **tech stack, architecture, and best practices**.
+
+🏗 **Tech Stack**: PostgreSQL, AWS, Microservices, OAuth, Systems Design, Go (Programming Language), Docker, Docker Compose, RabbitMQ, Grafana  
+
+---
+
 ### **Software Engineer (Golang) - Freelance**  
-📅 December 2022 – Present  
+📅 December 2022 – December 2024  
 
 Developed and deployed **web applications** using **Go, AWS**, and **Kubernetes**, including a design gallery, IT academy landing page, and a single-vendor marketplace.  
 
